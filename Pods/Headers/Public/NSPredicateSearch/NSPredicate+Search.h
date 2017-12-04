@@ -1,0 +1,1 @@
+../../../NSPredicateSearch/NSPredicateSearch/Classes/NSPredicate+Search.h
